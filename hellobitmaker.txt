@@ -14,4 +14,4 @@ File: Statuses:
 make change to a file
 git status
 git add - A
-git commit -m "A meaningful message."
+git commit -m "A meaningful message." 
